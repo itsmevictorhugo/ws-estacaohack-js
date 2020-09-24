@@ -18,16 +18,19 @@ Através do workshop, documentar meu aprendizado, adquirir conhecimentos mais s�
 
 ___________________
 ### Status 📋
+- [x] HTML
+- [x] CSS
 - [ ] Javascript
 - [ ] API
 
 ___________________
 ### Tecnologias 🖥️
 Estas são as tecnologias que utilizarei no decorrer do Workshop:
-
-- [Git](https://git-scm.com/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
 - [Javascript](https://www.w3schools.com/js/)
 - [O que é API](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces)
+- [Git](https://git-scm.com/)
 
 ___________________
 ### Autor 👱

@@ -1,0 +1,18 @@
+body {
+  background: #e0e0e0;
+}
+
+img {
+}
+
+.logo {
+  width: 300px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-family: "Lucida Sans";
+}
