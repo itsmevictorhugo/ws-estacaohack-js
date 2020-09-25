@@ -2,7 +2,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/PF3GCt6/estacaohack-digitalhouse.jpg" alt="estacaohack-digitalhouse" border="0"></a>
 </h1>
 
-<h4 align="center"> 🚧  REPOSITÓRIO EM CONSTRUÇÃO...  🚧 </h4>
+<!-- <h4 align="center"> 🚧  REPOSITÓRIO BASE FINALIZADO  🚧 </h4> -->
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -20,8 +20,8 @@ ___________________
 ### Status 📋
 - [x] HTML
 - [x] CSS
-- [ ] Javascript
-- [ ] API
+- [x] Javascript
+- [x] API
 
 ___________________
 ### Tecnologias 🖥️
